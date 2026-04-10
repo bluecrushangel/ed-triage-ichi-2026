@@ -25,7 +25,7 @@ as the most influential contributors to early risk stratification. Models also e
 This work provides a clinically grounded benchmark to support the evaluation and design of **deployable triage decision support systems**, particularly in resource-constrained environments.
 
 ## Manuscript
-[Download the accepted manuscript](./ICHI2026_accepted_manuscript.pdf)
+[View Paper (PDF)](https://raw.githubusercontent.com/bluecrushangel/ed-triage-ichi-2026/main/ICHI2026_accepted_manuscript.pdf)
 
 ## Note
 This repository hosts the accepted manuscript version of the paper. The final published version will appear in IEEE Xplore.

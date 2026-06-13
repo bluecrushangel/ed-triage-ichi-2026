@@ -1,4 +1,6 @@
-# Paper Title
+# Benchmarking Early Deterioration Prediction
+Across Hospital-Rich and MCI-Like Emergency
+Triage Under Constrained Sensing
 
 Accepted at IEEE ICHI 2026
 
